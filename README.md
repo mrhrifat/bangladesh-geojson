@@ -15,7 +15,12 @@ GeoJSON is a format for encoding a variety of geographic data structures. In thi
   - District ID
   - Name
   - Bengali Name
-
+- Postcodes
+  - Division ID
+  - District ID
+  - Upazila Name
+  - Post Office Name
+  - Post Code
 
 ## Credit
 This file are collected from Fahim Reza's respository. Currenty that repository is not maintainable. That's the reason I create another one.
