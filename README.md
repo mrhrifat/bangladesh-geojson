@@ -10,6 +10,11 @@ GeoJSON is a format for encoding a variety of geographic data structures. In thi
   - Bengali Name
   - Latitude
   - Longitude
+- Upazila
+  - ID
+  - District ID
+  - Name
+  - Bengali Name
 
 
 ## Credit
